@@ -33,6 +33,7 @@
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&logoColor=white"></a>
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=.NET&logoColor=white"></a>
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=white"></a>
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma&logoColor=white"></a>
 </p>
 
 ---
