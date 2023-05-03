@@ -40,7 +40,7 @@
 <p align="center">
 <img  width="20" src="./images/globe.gif" style="margin-right:10px">
 <a href="https://lauralvrz.github.io/">
-<strong>Visit my personal website</strong>
+<strong style="color: #508ef2">Visit my personal website</strong>
 </a>
 <img width="20" src="./images/globe.gif" style="margin-left:10px">
 </p>
