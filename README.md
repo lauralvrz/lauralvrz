@@ -6,4 +6,3 @@
 - 🌱 I'm interested in learning more about philosophy, literature, history and music
 - 💬 Ask me about anything you want to know about me
 - ⚡ Fun fact: I'm redhead
-
