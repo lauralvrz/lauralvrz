@@ -14,8 +14,9 @@
 
 ---
 
-<h4 align="left">Main languages and tools/software I use:</h4>
-<p align="left" style="margin: 0px 10px">
+### Main languages and tools/software I use:
+
+<p align="left">
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <img alt="C++" src="https://img.shields.io/badge/-Csharp-6c1ca6?style=flat-square&logo=csharp&logoColor=white"></a>
 <img alt="ZSH" src="https://img.shields.io/badge/-OhMyZSH-black?style=flat-square&logo=zsh&logoColor=white"></a>
