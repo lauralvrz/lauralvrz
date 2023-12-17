@@ -12,11 +12,10 @@
 - ♟️ Message me and we can play a game of chess
 - ⚡ Fun fact: I am a redhead
 
-<hr style="height:2px">
-
+---
 
 <h4 align="left">Main languages and tools/software I use:</h4>
-<p align="left">
+<p align="left" style="margin: 0px 10px">
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <img alt="C++" src="https://img.shields.io/badge/-Csharp-6c1ca6?style=flat-square&logo=csharp&logoColor=white"></a>
 <img alt="ZSH" src="https://img.shields.io/badge/-OhMyZSH-black?style=flat-square&logo=zsh&logoColor=white"></a>
@@ -35,10 +34,12 @@
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
-<hr style="height:2px">
+---
 
-<a style="display:flex; align-items:center; justify-content:center" href="https://lauralvrz.github.io/">
+<p align="center">
+<a href="https://lauralvrz.github.io/">
 <img alt="Globe" height="20" src="images/globe.gif" style="margin-right:10px">
 Visit my personal website
 <img alt="Globe" height="20" src="images/globe.gif" style="margin-left:10px">
 </a>
+</p>
