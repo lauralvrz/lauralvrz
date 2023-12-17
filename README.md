@@ -37,9 +37,9 @@
 ---
 
 <p align="center">
+<img  width="20" src="./images/globe.gif" style="margin-right:10px">
 <a href="https://lauralvrz.github.io/">
-<img alt="Globe" height="20" src="./images/globe.gif" style="margin-right:10px">
 Visit my personal website
-<img alt="Globe" height="20" src="./images/globe.gif" style="margin-left:10px">
 </a>
+<img width="20" src="./images/globe.gif" style="margin-left:10px">
 </p>
