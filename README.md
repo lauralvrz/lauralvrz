@@ -24,6 +24,7 @@
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
 <img alt="Git" src="https://img.shields.io/badge/-Git-b83333?style=flat-square&logo=Git&logoColor=white"></a>
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"></a>
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-darkblue?style=flat-square&logo=jQuery&logoColor=white"></a>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7743c4?style=flat-square&logo=Bootstrap&logoColor=white"></a>
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white"></a>
