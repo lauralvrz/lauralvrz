@@ -7,7 +7,7 @@
 - 🌱 Some of my interests (outside tech):
   - 📖 philosophy, history, literature
   - 🎧 music, art, photography
-  - 🏕️ traveling, sports, exlporing
+  - 🏕️ travelling, sports, exlporing
 - 💬 Ask me about anything you want to know about me
 - ♟️ Message me and we can play a game of chess
 - ⚡ Fun fact: I am a redhead
