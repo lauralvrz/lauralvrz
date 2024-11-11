@@ -5,9 +5,9 @@
 - 💻 I'm a final year Computer Science and Engineering student
 - 💼 I'm currently working as a Full Stack Developer
 - 🌱 Some of my interests (outside tech):
-  - 📖 (reading) philosophy, history, literature
-  - 🎧 music (guitar), art, photography
-  - 🏕️ travelling, sports, exlporing
+  - 📖 reading and writing
+  - 🎧 music, art, photography
+  - 🏕️ travelling, hiking
 - 💬 Ask me about anything you want to know about me
 - ♟️ Message me and we can play a game of chess
 - ⚡ Fun fact: I am a redhead
