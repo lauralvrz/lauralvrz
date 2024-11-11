@@ -14,7 +14,7 @@
 
 ---
 
-### Main languages and tools/software I use:
+### Main languages and tools I use:
 
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
