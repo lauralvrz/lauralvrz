@@ -2,7 +2,7 @@
 
 ### I'm Laura and these are some interesting facts about me:
 
-- 💻 I'm a final year Computer Science and Engineering student
+- 💻 I'm a Computer Science Engineer
 - 💼 I'm currently working as a Full Stack Developer
 - 🌱 Some of my interests (outside tech):
   - 📖 reading and writing
