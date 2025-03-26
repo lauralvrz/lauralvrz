@@ -46,8 +46,8 @@
 
 <p align="center">
 <img  width="20" src="./images/globe.gif" style="margin-right:10px">
-<a href="https://lauralvrz.github.io/">
-<strong style="color: #508ef2;">Visit my personal website</strong>
+<a href="https://lauralvrz.github.io/" style="pointer-events: none">
+<strong style="color: #508ef2;">Visit my personal website (under construction)</strong>
 </a>
 <img width="20" src="./images/globe.gif" style="margin-left:10px">
 </p>
