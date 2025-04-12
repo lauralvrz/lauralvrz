@@ -12,9 +12,7 @@
 - ♟️ Message me and we can play a game of chess
 - ⚡ Fun fact: I am a redhead
 
----
-
-### Main languages and tools I use:
+## Main languages and tools I use:
 
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
@@ -42,12 +40,12 @@
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
 </p>
 
----
+## Check out my portfolio
 
-<p align="center">
-<img  width="20" src="./images/globe.gif" style="margin-right:10px">
-<a href="https://lauralvrz.github.io/" style="pointer-events: none">
+<p align="start" >
+<img  width="16" src="./images/globe.gif" style="margin-right:10px">
+<a href="#" style="pointer-events: none;">
 <strong style="color: #508ef2;">Visit my personal website (under construction)</strong>
 </a>
-<img width="20" src="./images/globe.gif" style="margin-left:10px">
+<img width="16" src="./images/globe.gif" style="margin-left:10px">
 </p>
