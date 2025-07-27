@@ -45,7 +45,7 @@
 <p align="start" >
 <img  width="16" src="./images/globe.gif" style="margin-right:10px">
 <a href="#" style="pointer-events: none;">
-<strong style="color: #508ef2;">Visit my personal website (under construction)</strong>
+<strong style="color: #508ef2;">Visit my personal website (under maintenance)</strong>
 </a>
 <img width="16" src="./images/globe.gif" style="margin-left:10px">
 </p>
